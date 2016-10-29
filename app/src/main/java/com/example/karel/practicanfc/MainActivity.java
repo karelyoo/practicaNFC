@@ -8,8 +8,6 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "NfcDemo";
-
     private TextView kTextView;
     private NfcAdapter kNfcAdapter;
 
